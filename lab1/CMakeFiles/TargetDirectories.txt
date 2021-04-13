@@ -1,0 +1,3 @@
+/home/fan/workspace/C/advancedOS/lab/aos03/lab1/CMakeFiles/rebuild_cache.dir
+/home/fan/workspace/C/advancedOS/lab/aos03/lab1/CMakeFiles/edit_cache.dir
+/home/fan/workspace/C/advancedOS/lab/aos03/lab1/CMakeFiles/linked_list.dir

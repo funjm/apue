@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/fan/workspace/C/advancedOS/lab/aos03/lab1/src/linked_list.c
+linked_list.h
+/home/fan/workspace/C/advancedOS/lab/aos03/lab1/src/linked_list.h
+
+/home/fan/workspace/C/advancedOS/lab/aos03/lab1/src/test.c
+linked_list.h
+/home/fan/workspace/C/advancedOS/lab/aos03/lab1/src/linked_list.h
+stdlib.h
+-
+stdio.h
+-
+
+include/linked_list.h
+stddef.h
+-
+stdlib.h
+-
+
